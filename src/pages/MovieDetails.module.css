@@ -1,0 +1,12 @@
+.detailsContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.col {
+    max-width: 400px;
+}
+
+.movieImage {
+    border-radius: 15px;
+}
